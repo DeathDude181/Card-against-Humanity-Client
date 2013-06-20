@@ -1,0 +1,10 @@
+#passKeyForm{
+	padding:20px;
+	position: relative;
+	width:200px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	top: 100px;
+	background-color: white;
+}
